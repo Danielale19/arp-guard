@@ -19,3 +19,6 @@ config.local.yaml
 # Windows
 Thumbs.db
 desktop.ini
+
+# Logs
+*.jsonl
