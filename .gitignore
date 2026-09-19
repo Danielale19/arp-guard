@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Tests
+.pytest_cache/
+
+# Secrets (webhook Discord, mots de passe...)
+.env
+config.local.yaml
+
+# Windows
+Thumbs.db
+desktop.ini
